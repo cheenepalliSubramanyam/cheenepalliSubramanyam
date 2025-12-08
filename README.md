@@ -1,6 +1,6 @@
 # Hi, I'm Subramanyam 👋  
 
-### 🚀 Aspiring Machine Learning Engineer | NLP & Deep Learning Enthusiast  
+### 🚀 Aspiring Machine Learning Engineer | Data Scientist | NLP & Deep Learning Enthusiast  
 
 I am passionate about building **real-world AI & Machine Learning solutions** using Python. I enjoy working on **NLP, Deep Learning, and ML model deployment** with cloud technologies. I actively build projects to strengthen my hands-on experience and practical knowledge.
 
