@@ -8,7 +8,7 @@ I am passionate about building **real-world AI & Machine Learning solutions** us
 
 ## 🔧 Technical Skills  
 
-- **Programming:** Python  
+- **Programming & Tools:** Python ,SQL, Git, Jupyter, Colab ,VS Code
 - **Machine Learning:** Supervised & Unsupervised Learning  
 - **Deep Learning:** CNN, RNN, Transformers  
 - **NLP:** Text Preprocessing, Tokenization, Abstractive Summarization  
