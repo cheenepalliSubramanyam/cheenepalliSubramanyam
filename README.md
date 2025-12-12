@@ -12,10 +12,8 @@ I am passionate about building **real-world AI & Machine Learning solutions** us
 - **Machine Learning:** Supervised & Unsupervised Learning  
 - **Deep Learning:** CNN, RNN, Transformers  
 - **NLP:** Text Preprocessing, Tokenization, Abstractive Summarization  
-- **Frameworks & Libraries:** PyTorch, Scikit-learn  
-- **API Development:** FastAPI  
-- **Cloud & DevOps:** AWS, Docker  
-- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Frameworks & Libraries:** Numpy,Pandas,Matplotlib,Seaborn,PyTorch, Scikit-learn,FastApi
+- **Cloud & DevOps:** AWS, Docker,CI/CD 
 
 ---
 
