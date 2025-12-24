@@ -3,7 +3,7 @@
 ### 🚀 Aspiring Data Scientist | Machine Learning & AI Enthusiast | Data Analytics
  
 
-I am passionate about building **real-world AI & Machine Learning solutions** using Python. I enjoy working on **NLP, Deep Learning, and ML model deployment** with cloud technologies. I actively build projects to strengthen my hands-on experience and practical knowledge.
+I am passionate about developing end-to-end data science and machine learning solutions using Python. My interests include data analytics, NLP, deep learning, and deploying ML models, with a strong focus on real-world applications.
 
 ---
 
